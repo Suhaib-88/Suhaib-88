@@ -53,6 +53,5 @@
   
 </div>
 <hr>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suhaib-88)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suhaib-88)](https://github.com/Suhaib-88)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suhaib-88&layout=compact&theme=vision-friendly-dark)](https://github.com/Suhaib-88/github-readme-stats)
