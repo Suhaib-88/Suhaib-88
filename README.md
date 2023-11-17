@@ -17,7 +17,7 @@
 </div>
 
 
-- :telescope: I’m working as a Data Scientist and contributing to building end to end machine learning applications.
+- :telescope: I’m working as a Part-time Data Scientist and contributing to building end to end machine learning applications.
 
 - :seedling: Exploring Technical Content Writing.
 
