@@ -10,6 +10,10 @@
   <a href="https://www.youtube.com/channel/UCSHbgeSpTHtfojbuEPrhyrg">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"/>
+  <a href="https://medium.com/@suhaibarshad2024">
+    
+  </a>
 </div>
 
 <div align="center">
@@ -18,6 +22,8 @@
 
 
 - :telescope: I’m working as a Part-time Data Scientist and contributing to building end to end machine learning applications.
+  
+- ✍️ I write  articles on [https://medium.com/@suhaibarshad2024](https://medium.com/@suhaibarshad2024)
 
 - :seedling: Exploring Technical Content Writing.
 
