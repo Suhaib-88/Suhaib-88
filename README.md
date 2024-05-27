@@ -10,7 +10,7 @@
   <a href="https://www.youtube.com/channel/UCSHbgeSpTHtfojbuEPrhyrg">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="50" height="50"/>
   <a href="https://medium.com/@suhaibarshad2024">
     
   </a>
